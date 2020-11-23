@@ -1,5 +1,5 @@
 {
-  "name": "packtwo",
+  "name": "@lernabox/packtwo",
   "version": "0.3.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "b8915e73049d368025f9da201563ea8898333594"
+  "gitHead": "2013f721b362d52136da32c34a82e3d2f3c89762"
 }
