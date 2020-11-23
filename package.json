@@ -2,7 +2,7 @@
   "name": "@devacc5566/lernabox",
   "private": true,
   "scripts": {
-    "lerna": "lerna publish --canary"
+    "lerna": "lerna"
   },
   "devDependencies": {
     "lerna": "^3.22.1"
