@@ -1,5 +1,5 @@
 {
-  "name": "@lernabox/packone",
+  "name": "packone",
   "version": "0.5.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "b33a39c8eff0bf40504817b5e6ab47c1c78effc6"
+  "gitHead": "645ccdc730885069020170db508838c869c19777"
 }
