@@ -1,0 +1,10 @@
+{
+  "name": "lernabox",
+  "private": true,
+  "scripts": {
+    "lerna": "lerna"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
