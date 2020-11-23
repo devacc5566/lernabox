@@ -1,5 +1,5 @@
 {
-  "name": "lernabox",
+  "name": "@devacc5566/lernabox",
   "private": true,
   "scripts": {
     "lerna": "lerna"
